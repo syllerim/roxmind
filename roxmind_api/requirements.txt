@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+transformers
+peft
+accelerate
+pydantic
+# torch
+gunicorn

@@ -1,0 +1,19 @@
+name: roxmind-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - ipykernel
+  - ipython
+  - matplotlib
+  - mlflow
+  - numpy
+  - pandas
+  - pip
+  - python=3.12.7
+  - scikit-learn
+  - seaborn
+  - pip:
+      - importlib-metadata
+      - mlflow==2.18.0      
