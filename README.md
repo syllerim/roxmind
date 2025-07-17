@@ -65,7 +65,7 @@ The final feedback is generated using a **LoRA fine-tuned Mistral 7B** model. Tr
 - Prompt examples are stored in a single `text` field
 - Labels are automatically generated from the `input_ids`
 
-> 📌 See `05_fine_tuning_Mistral7B_LoRA.ipynb` for details.
+> 📌 See `05_fine_tuning_Mistral7B_LoRA.ipynb` for details. 🤗 [huggingface - last pushed model](https://huggingface.co/Syllerim/hyrox_mistral_lora_model/commit/60f2e5177b0df4a3aa756221e1942f23a6c48d80)
 
 ---
 
