@@ -26,6 +26,8 @@ HYROX participants often receive a single finish time, but no guidance on *why* 
 
 ### 1. **ML Pipeline**
 
+> 📥 This project was built using a dataset of 167,761 HYROX participant results downloaded and processed for analysis.
+
 I created a structured pipeline to go from raw user input to performance feedback.
 - **Field Identification** Normalization User Id, Age (min and max), gender
 - **Preprocessing**: Normalization of input times with `MinMaxScaler`
